@@ -1,16 +1,13 @@
 # TanaT Lab
 
-**TanaT Lab** develops methodologies and open-source tools for trajectory analysis, longitudinal data modeling, and Deep Learning applications with specialized focus on patient care pathways.
+**TanaT Lab** develops methodologies and open-source tools for trajectory analysis, longitudinal data modeling, and Deep Learning applications, with a specialized focus on patient care pathways.
 
-### 🚧 Repository Migration
+### Main project
 
-We are currently migrating our research environment to GitHub.
-
-* **Reference Repository:** [https://gitlab.inria.fr/tanat/core/tanat](https://gitlab.inria.fr/tanat/core/tanat)
-* **GitHub Mirrors:** Ongoing.
-
-### Organization
-The **TanaT** ecosystem provides a structured framework for reproducible medical research, from raw data ingestion to predictive modeling.
+| Repository | Description | Links |
+|---|---|---|
+| [TanaT](https://github.com/TanaT-Lab/TanaT) | Core library for trajectory analysis | [Documentation](https://tanat-lab.github.io/TanaT/) |
+| [tanat-utils](https://github.com/TanaT-Lab/tanat-utils) | Shared utilities for the TanaT ecosystem | [Repository](https://github.com/TanaT-Lab/tanat-utils) |
 
 ---
-*Open source software designed to advance temporal sequence analysis in research and industry applications.*
+*Open source software designed to advance trajectory analysis in research and industry applications.*
